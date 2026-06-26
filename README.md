@@ -38,7 +38,7 @@ This thesis investigates which features used in Automated Essay Scoring (AES) ar
 │   ├── score_correlation.png                # Score correlation across conditions
 │   ├── feature_distributions.png            # Feature value distributions across intervention levels
 │   ├── feature_shift.png                    # Feature shift from original to AI-assisted
-│   └── strategy_comparison.png             # Comparison across feature subset strategies
+│   └── strategy_comparison.png              # Comparison across feature subset strategies
 ├── Results Ablation/                        # Same outputs as results/ for the length-feature ablation
 ├── modules/
 │   ├── classifier.py                        # CV logic, SHAP computation, and fragility labelling
