@@ -51,6 +51,7 @@ This thesis investigates which features used in Automated Essay Scoring (AES) ar
 ├── ablation_pipeline.py                     # Ablation study: classifier + quality pipeline excluding length features
 ├── features.parquet                         # Extracted features for all essays and variants
 ├── feature_delta.parquet                    # Per-feature deltas between original and AI-assisted variants
+├── feature_analysis.ipynb                   # Exploratory feature analysis and visualizations
 └── requirements.txt
 ```
 
